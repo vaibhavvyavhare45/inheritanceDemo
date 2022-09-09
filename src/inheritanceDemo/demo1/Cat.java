@@ -7,7 +7,7 @@ public class Cat extends Animal {
 	}
  public void display() {
 	 System.out.println("my name is "+aname);
-	 //comment
+	 //comment akshjj
 }
  public static void main(String[] args) {
 	Dog  labrador=new Dog();
